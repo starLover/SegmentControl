@@ -1,0 +1,3 @@
+target 'SegmentDemo' do
+pod 'Masonry'
+end
